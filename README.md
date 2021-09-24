@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Dhatrak</h1>
-<h3 align="left">Software engineer and web developer with good experience in designing and developing desktop applications and Web applications from concept to deployment. Ability to quickly grasp any new technologies and concepts. Strong programming, analytical and interpersonal skills. Strong communication and client interaction skills. Effective in working independently and collaboratively in teams</h3>
+<h3 align="center">Software engineer and web developer with good experience in designing and developing desktop applications and Web applications from concept to deployment. Ability to quickly grasp any new technologies and concepts. Strong programming, analytical and interpersonal skills. Strong communication and client interaction skills. Effective in working independently and collaboratively in teams</h3>
 
 - 🔭 I’m currently working with **Stochastik Software Solutions**
 
