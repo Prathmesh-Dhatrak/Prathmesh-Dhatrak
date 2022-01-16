@@ -21,7 +21,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10700845/prathmesh-dhatrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10700845/prathmesh-dhatrak" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Prathmesh-Dhatrak)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-Dhatrak)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathmesh-Dhatrak&show_icons=true)  
 
