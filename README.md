@@ -22,7 +22,6 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Prathmesh-Dhatrak)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Prathmesh-Dhatrak)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathmesh-Dhatrak&show_icons=true)  
 
