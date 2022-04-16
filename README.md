@@ -6,7 +6,7 @@ I do that by using JavaScript and a lot of coffee☕.</h3>
 
 - 🌱 I’m currently learning **vue and nextJS**
 
-- 👯 I’m also collaborating with [ESOC-VITPune]
+- 👯 I’m also collaborating with [TEDxVITPune]
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prathmesh-Dhatrak](https://github.com/Prathmesh-Dhatrak)
 
