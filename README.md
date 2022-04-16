@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Prathmesh Santosh Dhatrak</h1>
-<h3 align="center">Software engineer and web developer with good experience in designing and developing desktop applications and Web applications from concept to deployment. Ability to quickly grasp any new technologies and concepts. Strong programming, analytical and interpersonal skills. Strong communication and client interaction skills. Effective in working independently and collaboratively in teams</h3>
+<h1 align="center">👋Hi, there it's me Prathmesh Dhatrak</h1>
+<h3 align="center">I like building things on the web.
+I do that by using JavaScript and a lot of coffee☕.</h3>
 
 - 🔭 I’m currently working with **Stochastik Software Solutions**
 
 - 🌱 I’m currently learning **vue and nextJS**
 
-- 👯 I’m also collaborating with [ESOC-VITPune](https://esocvitpune.com/)
+- 👯 I’m also collaborating with [ESOC-VITPune]
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prathmesh-Dhatrak](https://github.com/Prathmesh-Dhatrak)
 
