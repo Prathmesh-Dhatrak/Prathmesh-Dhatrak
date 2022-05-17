@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi, there it's me
 Prathmesh Dhatrak.</h1>
-<h3 align="center">I like building things on the web.
+<h3 align="left">I like building things on the web.
 I do that by using JavaScript and a lot of coffee☕</h3>
 
 - 🔭 I’m currently working with [**Stochastik Software Solutions**](https://github.com/stochastic-software)
