@@ -9,6 +9,7 @@ I do that by using JavaScript and a lot of coffee☕</h3>
 - 👨‍💻 All of my projects are available at [https://github.com/Prathmesh-Dhatrak](https://github.com/Prathmesh-Dhatrak)
 - 🚀 Often, I document my learnings and post them on [prathmeshdhatrak.com](https://prathmeshdhatrak.com/).
 - 📫 How to reach me: [me@prathmeshdhatrak.com](mailto:me@prathmeshdhatrak.com).
+- 👋 My Blogs: [prathmeshdhatrak.hashnode](https://prathmeshdhatrak.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
