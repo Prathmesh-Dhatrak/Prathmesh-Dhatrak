@@ -3,9 +3,8 @@
 
 #### Learner
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
-Learner • Javascript • Typescript • React • Nodejs <br>
-Passionate about • Coding • Learning in Public
-
+I like building things on the web. I do that by using JavaScript and a lot of coffee☕ <br>
+Passionate about • Coding • Learning in Public <br>
 Skills: Javascript, Typescript, React , Nodejs
 
 - 🌱 I’m currently learning **[Gatsbyjs](https://www.gatsbyjs.com/) and [NextJS](https://nextjs.org/)**
