@@ -4,7 +4,7 @@
 #### I like building things on the web with JavaScript and a lot of coffee☕
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
 Passionate about • Coding • Learning in Public <br>
-Skills: Javascript, Typescript, React , Nodejs
+Skills: Javascript, Typescript, React , Nodejs <br>
 
 - 🌱 I’m currently learning **[Gatsbyjs](https://www.gatsbyjs.com/) and [NextJS](https://nextjs.org/)**
 - 😄 Pronouns: He/Him 
