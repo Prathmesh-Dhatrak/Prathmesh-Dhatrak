@@ -11,7 +11,7 @@ Skills: Javascript, Typescript, React , Nodejs
 - 📫 Contact me : [prathmesh101dhatrak@gmail.com](mailto:prathmesh101dhatrak@gmail.com)
 - 👨‍💻 My Website : [prathmeshdhatrak.com](https://prathmeshdhatrak.com)
 - 🔭 I’m currently working with [**Entytle**](https://entytle.com/) as a SED Intern.
-- 👯 I’m also collaborating with [TEDxVITPune](https://github.com/TEDxVITPune2022).
+- 👯 I’m also collaborating with [TEDxVITPune](https://github.com/TEDxVITPune2022) as a Website Head.
 - 👋 My Blogs: [blog.prathmeshdhatrak.com](https://blog.prathmeshdhatrak.com)
 
 ---
