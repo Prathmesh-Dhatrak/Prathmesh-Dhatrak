@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Arindam200/Arindam200/blob/main/github-header-image.png)](https://github.com/Prathmesh-Dhatrak)
+[![MasterHead](https://github.com/Arindam200/Prathmesh-Dhatrak/main/profile_hearder_img.png)](https://github.com/Prathmesh-Dhatrak)
 ###  Prathmesh Dhatrak
 
 #### I like building things on the web with JavaScript and a lot of coffee☕
