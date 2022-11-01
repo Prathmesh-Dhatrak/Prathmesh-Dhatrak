@@ -9,8 +9,8 @@ Skills: Javascript, Typescript, React , Nodejs
 - 🌱 I’m currently learning **[Gatsbyjs](https://www.gatsbyjs.com/) and [NextJS](https://nextjs.org/)**
 - 😄 Pronouns: He/Him 
 - 📫 Contact me : [prathmesh101dhatrak@gmail.com](mailto:prathmesh101dhatrak@gmail.com)
-- 👨‍💻 All of my projects are available on my website : [prathmeshdhatrak.com](https://prathmeshdhatrak.com)
-- 🔭 I’m currently working with [**Entytle**](https://entytle.com/) as a Software Engineer Intern.
+- 👨‍💻 My Website : [prathmeshdhatrak.com](https://prathmeshdhatrak.com)
+- 🔭 I’m currently working with [**Entytle**](https://entytle.com/) <br>as a Software Engineer Intern.
 - 👯 I’m also collaborating with [TEDxVITPune](https://github.com/TEDxVITPune2022).
 - 👋 My Blogs: [blog.prathmeshdhatrak.com](https://blog.prathmeshdhatrak.com)
 
