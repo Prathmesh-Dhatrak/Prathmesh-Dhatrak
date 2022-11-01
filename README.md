@@ -3,6 +3,9 @@ Prathmesh Dhatrak.</h1>
 <h3 align="left">I like building things on the web.
 I do that by using JavaScript and a lot of coffee☕</h3>
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 - 🔭 I’m currently working with [**Stochastik Software Solutions**](https://github.com/stochastic-software)
 - 🌱 I’m currently learning **[gatsbyjs](https://www.gatsbyjs.com/) and [nextJS](https://nextjs.org/)**
 - 👯 I’m also collaborating with [TEDxVITPune](https://github.com/TEDxVITPune2022).
