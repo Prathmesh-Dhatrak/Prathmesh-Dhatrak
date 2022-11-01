@@ -3,7 +3,7 @@
 
 #### Learner
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
-I like building things on the web. I do that by using JavaScript and a lot of coffee☕ <br>
+I like building things on the web with JavaScript and a lot of coffee☕ <br>
 Passionate about • Coding • Learning in Public <br>
 Skills: Javascript, Typescript, React , Nodejs
 
