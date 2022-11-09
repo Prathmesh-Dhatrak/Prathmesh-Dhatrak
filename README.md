@@ -29,12 +29,12 @@ src="https://img.shields.io/github/followers/Prathmesh-Dhatrak?logo=github&style
 ## <a href="https://blog.prathmeshdhatrak.com/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
 <!-- BLOG-POST-LIST:START -->
+- [Promise VS setTimeout&lpar;&rpar; in Javascript.](https://blog.prathmeshdhatrak.com/promise-vs-settimeout-in-javascript)
 - [What is the problem with multiple API calls and How do we handle them?](https://blog.prathmeshdhatrak.com/multiple-api-calls-in-react)
 - [Understanding React Class-Based Component 
 and Is it worth learning?](https://blog.prathmeshdhatrak.com/understanding-react-class-based-component)
 - [Understanding JS concepts: Part 2](https://blog.prathmeshdhatrak.com/understanding-js-concepts-part-2)
 - [Understanding JS concepts: Part 1](https://blog.prathmeshdhatrak.com/understanding-js-concepts-part-1)
-- [Getting Started with TypeScript](https://blog.prathmeshdhatrak.com/getting-started-with-typescript)
 <!-- BLOG-POST-LIST:END -->
 ---
 
