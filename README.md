@@ -30,9 +30,8 @@ src="https://img.shields.io/github/followers/Prathmesh-Dhatrak?logo=github&style
 
 <!-- BLOG-POST-LIST:START -->
 - [Promise VS setTimeout&lpar;&rpar; in Javascript.](https://blog.prathmeshdhatrak.com/promise-vs-settimeout-in-javascript)
-- [What is the problem with multiple API calls and How do we handle them?](https://blog.prathmeshdhatrak.com/multiple-api-calls-in-react)
-- [Understanding React Class-Based Component 
-and Is it worth learning?](https://blog.prathmeshdhatrak.com/understanding-react-class-based-component)
+- [Optimizing API Calls in React with Debounce](https://blog.prathmeshdhatrak.com/multiple-api-calls-in-react)
+- [Understanding React Class-Based Components](https://blog.prathmeshdhatrak.com/understanding-react-class-based-component)
 - [Understanding JS concepts: Part 2](https://blog.prathmeshdhatrak.com/understanding-js-concepts-part-2)
 - [Understanding JS concepts: Part 1](https://blog.prathmeshdhatrak.com/understanding-js-concepts-part-1)
 <!-- BLOG-POST-LIST:END -->
