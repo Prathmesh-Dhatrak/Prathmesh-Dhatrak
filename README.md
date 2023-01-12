@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/Prathmesh-Dhatrak/Prathmesh-Dhatrak/blob/main/profile_hearder_img.png)](https://github.com/Prathmesh-Dhatrak)
 ###  Prathmesh Dhatrak
 
 #### I like building things on the web with JavaScript and a lot of coffee☕
