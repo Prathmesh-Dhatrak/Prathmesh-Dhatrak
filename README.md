@@ -3,7 +3,7 @@
 #### I like building things on the web with JavaScript and a lot of coffee☕
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
 Passionate about • Coding • Learning in Public <br>
-Skills: Javascript, Typescript, React , Nodejs, [React-Native](https://github.com/fabOnReact/react-native-wear-connectivity) <br>
+Skills: Javascript, Typescript, React , Nodejs <br>
 
 - 🌱 I’m currently learning **[Gatsbyjs](https://www.gatsbyjs.com/) and [NextJS](https://nextjs.org/)**
 - 😄 Pronouns: He/Him 
@@ -61,11 +61,11 @@ src="https://img.shields.io/github/followers/Prathmesh-Dhatrak?logo=github&style
 </div>
 </td>
 </tr>
-
-
 ---
 
 <a href="http://www.github.com/Prathmesh-Dhatrak"><img src="https://activity-graph.herokuapp.com/graph?username=Prathmesh-Dhatrak&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ---
+[React-Native](https://github.com/fabOnReact/react-native-wear-connectivity)
+
 </details>
