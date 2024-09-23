@@ -1,16 +1,15 @@
-###  Prathmesh Dhatrak
+### Prathmesh Dhatrak
 
-#### I like building things on the web with JavaScript and a lot of coffee☕
+#### SDE @ Copods | Full Stack Engineer | Javascript | React | Nextjs
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
-Passionate about • Coding • Learning in Public <br>
-Skills: Javascript, Typescript, React , Nodejs <br>
+Passionate about • Coding • Learning in Public • Product Development <br>
+Skills: Javascript, Typescript, React, Node.js, AWS, Spring Boot <br>
 
-- 🌱 I’m currently learning **[Gatsbyjs](https://www.gatsbyjs.com/) and [NextJS](https://nextjs.org/)**
-- 😄 Pronouns: He/Him 
-- 📫 Contact me : [prathmesh101dhatrak@gmail.com](mailto:prathmesh101dhatrak@gmail.com)
-- 👨‍💻 My Website : [prathmeshdhatrak.com](https://prathmeshdhatrak.com)
-- 🔭 I’m currently working on myslef.
-- 👯 I’m also collaborating with [TEDxVITPune](https://github.com/TEDxVITPune2022) as a Website Head.
+- 🏢 I'm currently working as a **Software Engineer at Copods**
+- 🌱 I'm continuously learning and improving my skills in **Full Stack Development**
+- 📫 Contact me: [prathmesh101dhatrak@gmail.com](mailto:prathmesh101dhatrak@gmail.com)
+- 👨‍💻 My Website: [prathmeshdhatrak.com](https://prathmeshdhatrak.com)
+- 🔭 I'm currently working on exciting projects at Copods
 - 👋 My Blogs: [blog.prathmeshdhatrak.com](https://blog.prathmeshdhatrak.com)
 
 ---
